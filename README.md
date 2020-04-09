@@ -1,4 +1,11 @@
-# Flutter Challenge Apps
+<h1 align="center">Flutter Challenge Apps</h1>
+
+<p align="center">
+	<a href="https://wuud.net">
+		<img width="160" height="169" src="https://github.com/TeamWuuD/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
+	<img width="160" height="160" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="flutter">
+	</a>
+</p>
 
 **The Complete Flutter Development Bootcamp Using Dart**
 
